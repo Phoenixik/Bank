@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705206218094",
+    "project_id": "firstsign-e610b",
+    "storage_bucket": "firstsign-e610b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705206218094:android:03d2a1a45b625dd3d7257f",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705206218094-qcjof1n8sr2a0nmddbp4mobgbotg5t4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSyFatCbvAGShCwHhw6-QA5r9K2F68Z9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705206218094-qcjof1n8sr2a0nmddbp4mobgbotg5t4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
